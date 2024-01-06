@@ -2,7 +2,7 @@
 Plantilla de una app de Ranking en React + Lambda para una promoción de PlayMO
 
 ## Usage
-- Crea un nuevo repositorio a través de este [enlace ](https://github.com/new?template_name=playmo-ranking-react-template)
+- Crea un nuevo repositorio a través de este [enlace ](https://github.com/new?template_name=playmo-ranking-react-template) marcando este repositorio como plantilla.
 
 - Clona el repositorio en tu espacio de trabajo
 - Pide a desarrollo el endpoint de `/ranking` para la Promoción en concreto
